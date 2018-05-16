@@ -4,6 +4,6 @@ class A{
 		System.out.println("New Line");
 	}
 
-	version numer is 1.1
+	version numer is 1.2
 
 }
