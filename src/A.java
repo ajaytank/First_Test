@@ -7,7 +7,7 @@ class A{
 
 
 	version numer is 1.3
-	dev version is 1.1
+	dev version is 1.2
 	
 
 
